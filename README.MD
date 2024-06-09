@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a Rock-Paper-Scissors game on the ARMv7 DE1-SoC platform. The game is played against the machine, with the user making their choice using switches and starting each round with a push button. The machine's choice is determined randomly using a timer value. Scores are displayed on the seven-segment displays, and the game continues until either the user or the machine wins three rounds.
+This project implements a Rock Paper Scissors game on the ARMv7 DE1-SoC platform. The game is played against the machine, with the user making their choice using switches and starting each round with a push button. The machine's choice is determined randomly using a timer value. Scores are displayed on the seven-segment displays, and the game continues until either the user or the machine wins three rounds.
 
 ## Hardware Setup
 
