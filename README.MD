@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors Game for ARMv7 DE1-SoC
+# Rock-Paper-Scissors Game for ARMV7 DE1-SoC
 
 ## Overview
 
